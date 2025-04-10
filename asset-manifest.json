@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.58a0c615.css",
-    "main.js": "/static/js/main.cdc03e03.js",
-    "static/media/HeroImage.jpg": "/static/media/HeroImage.3ef8ec8c1b9b5e8de29c.jpg",
-    "index.html": "/index.html",
-    "main.58a0c615.css.map": "/static/css/main.58a0c615.css.map",
-    "main.cdc03e03.js.map": "/static/js/main.cdc03e03.js.map"
+    "main.css": "/shaid-portfolio/static/css/main.58a0c615.css",
+    "main.js": "/shaid-portfolio/static/js/main.c1942826.js",
+    "static/media/HeroImage.jpg": "/shaid-portfolio/static/media/HeroImage.3ef8ec8c1b9b5e8de29c.jpg",
+    "index.html": "/shaid-portfolio/index.html",
+    "main.58a0c615.css.map": "/shaid-portfolio/static/css/main.58a0c615.css.map",
+    "main.c1942826.js.map": "/shaid-portfolio/static/js/main.c1942826.js.map"
   },
   "entrypoints": [
     "static/css/main.58a0c615.css",
-    "static/js/main.cdc03e03.js"
+    "static/js/main.c1942826.js"
   ]
 }

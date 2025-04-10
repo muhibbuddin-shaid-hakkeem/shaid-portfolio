@@ -4,11 +4,11 @@ Welcome to my portfolio! This project showcases my skills, projects, and experie
 ### Weblink: [Live Website](https://muhibbuddin-shaid-hakkeem.github.io/shaid-portfolio/)
 ## Some Images:
 <img width="450px;" src="https://raw.githubusercontent.com/muhibbuddin-shaid-hakkeem/portfolio-assets/main/profilepg1.png"/>
-<img width="450px;" src="https://github.com/rishavchanda/rishav-chanda-portfolio/assets/64485885/0a33349f-262d-4720-afed-7afc0dfd85a5"/>
-<img width="450px;" src="https://github.com/rishavchanda/rishav-chanda-portfolio/assets/64485885/92f2622f-0a7f-444a-8f60-6edeae7508dd"/>
-<img width="450px;" src="https://github.com/rishavchanda/rishav-chanda-portfolio/assets/64485885/0e984e85-cbd9-487b-bf91-166009b39319"/>
-<img width="450px;" src="https://github.com/rishavchanda/rishav-chanda-portfolio/assets/64485885/6ad7b63b-4c51-4c98-bd21-847e5d48d559"/>
-<img width="450px;" src="https://github.com/rishavchanda/rishav-chanda-portfolio/assets/64485885/10647898-7154-434c-84e6-edee6679ca92"/>
+<img width="450px;" src="https://raw.githubusercontent.com/muhibbuddin-shaid-hakkeem/portfolio-assets/main/skills.png"/>
+<img width="450px;" src="https://raw.githubusercontent.com/muhibbuddin-shaid-hakkeem/portfolio-assets/main/pageexp.png"/>
+<img width="450px;" src="https://raw.githubusercontent.com/muhibbuddin-shaid-hakkeem/portfolio-assets/main/certiheld.png"/>
+<img width="450px;" src="https://raw.githubusercontent.com/muhibbuddin-shaid-hakkeem/portfolio-assets/main/Education.png"/>
+<img width="450px;" src="https://raw.githubusercontent.com/muhibbuddin-shaid-hakkeem/portfolio-assets/main/contact.png"/>
 
 
 ## Table of Contents
@@ -41,8 +41,8 @@ My Portfolio is a React.js application that serves as an online portfolio to sho
 ## Installation
 To run this portfolio locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/rishavchanda/rishav-chanda-portfolio.git`
-2. Navigate to the project directory: `cd rishav-chanda-portfolio`
+1. Clone the repository: `git clone https://github.com/muhibbuddin-shaid-hakkeem/shaid-portfolio.git`
+2. Navigate to the project directory: `cd shaid-portfolio`
 3. Install the dependencies: `npm install`
 4. Start the development server: `npm start`
 5. Open your browser and visit: `http://localhost:3000`
